@@ -167,7 +167,10 @@ FROM
 WHERE
     e.enrolment_id IS NULL;
 ```
----
+
+**Analysis and Insights:**  
+   Use query results to derive meaningful insights into student performance and demographics.
+   
 ![image](https://github.com/user-attachments/assets/c6597616-11d5-465a-8a29-6fd373e06e6a)
 ![image](https://github.com/user-attachments/assets/56d39650-1188-4e8c-ad0a-a18c691c3b20)
 ![image](https://github.com/user-attachments/assets/2242bc1d-8e1a-4d51-85b8-fa497be8a53d)
@@ -179,7 +182,7 @@ WHERE
 ![image](https://github.com/user-attachments/assets/4889cdce-1a02-4b2c-b623-4a6bb83dd7c5)
 ![image](https://github.com/user-attachments/assets/e6b8f8f8-d9c6-4c06-82fd-4bac78f87878)
 
-
+---
 **Tools Used**  
 
 1. **SQL Environment:** MySQL Workbench for query execution.  
