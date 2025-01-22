@@ -1,4 +1,5 @@
---- # Main-Flow-Task-2
+--- 
+# Main-Flow-Task-2
 
 Name: Sanskruti Thakur
 
@@ -7,7 +8,6 @@ Company: Main Flow Services And Technologies
 Domain: SQL Developer
 
 Duration: January 2025 to March 2025
-
 ---
 
 # Overview of the Project
@@ -15,7 +15,6 @@ Duration: January 2025 to March 2025
 Project: Advanced Student Management System for SQL Developers  
 
 This project focuses on the design and execution of an **Advanced Student Management System**, utilizing SQL. The primary objective is to manage student and course information efficiently while extracting meaningful insights through advanced SQL queries. The project involves creating relational tables, managing data with foreign keys, and performing complex joins and aggregations.
-
 ---
 
 **Key Objectives**  
@@ -168,7 +167,7 @@ FROM
 WHERE
     e.enrolment_id IS NULL;
 ```
-
+---
 ![image](https://github.com/user-attachments/assets/c6597616-11d5-465a-8a29-6fd373e06e6a)
 ![image](https://github.com/user-attachments/assets/56d39650-1188-4e8c-ad0a-a18c691c3b20)
 ![image](https://github.com/user-attachments/assets/2242bc1d-8e1a-4d51-85b8-fa497be8a53d)
@@ -180,8 +179,6 @@ WHERE
 ![image](https://github.com/user-attachments/assets/4889cdce-1a02-4b2c-b623-4a6bb83dd7c5)
 ![image](https://github.com/user-attachments/assets/e6b8f8f8-d9c6-4c06-82fd-4bac78f87878)
 
-
----
 
 **Tools Used**  
 
