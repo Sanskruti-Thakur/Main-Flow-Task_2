@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4889cdce-1a02-4b2c-b623-4a6bb83dd7c5)![image](https://github.com/user-attachments/assets/e6b8f8f8-d9c6-4c06-82fd-4bac78f87878)-- # Main-Flow-Task-2
+--- # Main-Flow-Task-2
 
 Name: Sanskruti Thakur
 
@@ -167,6 +167,7 @@ FROM
     Enrolments e ON s.StudentID = e.student_id
 WHERE
     e.enrolment_id IS NULL;
+```
 
 ![image](https://github.com/user-attachments/assets/c6597616-11d5-465a-8a29-6fd373e06e6a)
 ![image](https://github.com/user-attachments/assets/56d39650-1188-4e8c-ad0a-a18c691c3b20)
@@ -176,9 +177,9 @@ WHERE
 ![image](https://github.com/user-attachments/assets/ddb56a76-3fc8-48a5-9ff7-f71445367047)
 ![image](https://github.com/user-attachments/assets/0e6f8064-b1a0-46bb-9c80-f238dbed8404)
 ![image](https://github.com/user-attachments/assets/cb4e0e19-f0b4-4616-bb40-62b7c428da87)
+![image](https://github.com/user-attachments/assets/4889cdce-1a02-4b2c-b623-4a6bb83dd7c5)
+![image](https://github.com/user-attachments/assets/e6b8f8f8-d9c6-4c06-82fd-4bac78f87878)
 
-
-```
 
 ---
 
